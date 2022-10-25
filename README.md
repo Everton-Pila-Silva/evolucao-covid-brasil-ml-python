@@ -1,6 +1,5 @@
 # Analise dos dados do Covid-19 com Python e Machine Learning
-
-![Python](https://img.icons8.com/dusk/2x/python.png)
+![image](https://user-images.githubusercontent.com/84790670/197653842-bd55ec16-8c75-455f-814b-91254a3f0190.png)
 
 Projeto do curso _Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil_, ministrado por [Neylson Crepalde](https://github.com/neylsoncrepalde) e promovido pela [Digital Innovation One](https://web.digitalinnovation.one/home).
 
